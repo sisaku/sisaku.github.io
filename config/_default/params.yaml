@@ -21,7 +21,15 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: xielx@shanghaitech.edu.cn
-address: [VIS Group, ShanghaiTech University, Shanghai, China](https://www.google.com/maps/place/%E4%B8%8A%E6%B5%B7%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6/@31.1763787,121.5902631,17z/data=!3m1!4b1!4m5!3m4!1s0x35b27828f381499b:0x5ae88f32ad8196b1!8m2!3d31.1763741!4d121.5924518)
+address:
+  street: Zhongke Road
+  city: Shanghai
+  region: Zhangjiang
+  country: China
+  country_code: CN
+coordinates:
+  latitude: '31.1763787'
+  longitude: '121.5902631'
 
 # Site header
 

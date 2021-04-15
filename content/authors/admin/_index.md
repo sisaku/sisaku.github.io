@@ -26,7 +26,6 @@ education:
   courses:
   - course: Undergraduate in Computer Science
     institution: Wuhan University of Science and Technology
-#    year: 2019
   - course: Graduate in Computer Science
     institution: ShanghaiTech University
 
